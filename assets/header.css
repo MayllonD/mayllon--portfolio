@@ -1,0 +1,12 @@
+.cabecalho {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Oswald", sans-serif;
+  font-size: 30px;
+  color: #fae900;
+  padding: 6%;
+  background-color: rgb(17, 17, 17);
+}
+.titulo {
+  margin-right: 12%;
+}

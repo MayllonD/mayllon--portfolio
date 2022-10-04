@@ -1,0 +1,24 @@
+.secao1 {
+  padding: 10%;
+  font-family: "Oswald", sans-serif;
+  font-size: 50px;
+  color: #fae900;
+  background-color: rgb(41, 40, 40);
+}
+.subtitulo {
+  text-align: center;
+  margin-bottom: 40px;
+}
+.mayllon {
+  float: left;
+  width: 40%;
+  margin-right: 15px;
+}
+@media (max-width: 900px) {
+  .secao1 {
+    font-size: 20px;
+  }
+  .mayllon {
+    width: 100%;
+  }
+}

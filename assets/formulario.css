@@ -1,0 +1,51 @@
+.cabecalho {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Oswald", sans-serif;
+  font-size: 30px;
+  color: #fae900;
+  padding: 6%;
+  background-color: rgb(17, 17, 17);
+}
+.titulo {
+  margin-right: 12%;
+}
+form {
+  font-family: "Oswald", sans-serif;
+  font-size: 30px;
+  padding: 10%;
+  margin: 50px 0;
+}
+form label {
+  display: block;
+  font-size: 22px;
+  margin: 10px 0 10px;
+}
+form input,
+form textarea {
+  display: block;
+  margin: 0 0 20px;
+  padding: 10px 20px;
+  width: 200px;
+}
+form legend {
+  font-size: 23px;
+}
+.bolinha {
+  display: inline-block;
+}
+.caixa {
+  padding: 10%;
+  padding: 10%;
+  font-family: "Oswald", sans-serif;
+  font-size: 30px;
+  background-color: rgb(17, 17, 17);
+}
+li {
+  margin: 12px;
+}
+a {
+  text-decoration: none;
+  color: white;
+  margin: 12px;
+}
